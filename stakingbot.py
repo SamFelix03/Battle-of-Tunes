@@ -2,7 +2,7 @@ import telebot
 from web3 import Web3
 
 # Telegram Bot Token
-BOT_TOKEN = "7718479528:AAFAjBQb6Eutn-BskyJRyx0Jz1giJVWLVS4"
+BOT_TOKEN = "****************************"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # Binance Smart Chain Testnet RPC URL
